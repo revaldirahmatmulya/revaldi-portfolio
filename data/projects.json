@@ -1,0 +1,37 @@
+
+{
+  "title": "My Projects",
+  "projectList": [
+    {
+      "id": "p1",
+      "title": "Greentech : Journal Submission System",
+      "description": "A comprehensive journal submission system for Greentech, featuring user registration, article submission, and review management.",
+      "imageUrl": "/media/image/icgt.png",
+      "tags": ["React", "Laravel", "Bootstrap", "MySQL"],
+      "liveUrl": "https://greentech.uin-malang.ac.id/"
+    },
+    {
+      "id": "p2",
+      "title": "E-Learning system for IKTN",
+      "description": "An e-learning platform designed for IKTN, featuring course management, user authentication, and interactive learning modules.",
+      "imageUrl": "/media/image/iktn.png",
+      "tags": ["Laravel", "MySQL"],
+      "liveUrl": "https://elearning.iktn.ac.id/"
+    },
+    {
+      "id": "p3",
+      "title": "Rental Room Managerial System for Athara Group",
+      "description": "A rental room management system for Athara Group, providing features for room booking, customer management, and payment processing.",
+      "imageUrl": "/media/image/athara.png",
+      "tags": ["Laravel", "Bootstrap", "MySQL"]
+    },
+    {
+      "id": "p4",
+      "title": "Movie List App",
+      "description": "A movie list application that allows users to search, filter, and watch trailer.",
+      "imageUrl": "/media/image/movie.png",
+      "tags": ["React","Public API"],
+      "repoUrl": "https://github.com/revaldirahmatmulya/react-movies-app"
+    }
+  ]
+}
