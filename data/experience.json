@@ -1,0 +1,37 @@
+
+{
+  "title": "Work Experience",
+  "experienceList": [
+    {
+      "id": "e1",
+      "role": "Full Stack Developer",
+      "company": "PT. Ekata Tech Indonesia.",
+      "duration": "Feb 2022 - Present",
+      "description": [
+        "Lead the development of a scalable website using React and laravel.",
+        "Implemented RESTful APIs and integrated third-party services to enhance user experience.",
+        "Collaborated with cross-functional teams to define project requirements and deliver high-quality software."
+      ]
+    },
+    {
+      "id": "e2",
+      "role": "Frontend Developer",
+      "company": "PT. Digital Inti Data Indonesia.",
+      "duration": "Jan 2023 - Aug 2023",
+      "description": [
+        "Successfully developed an HR management program through team collaboration. ",
+        "Management of multi-channel marketing campaigns."
+      ]
+    },
+    {
+      "id": "e3",
+      "role": "Full Stack Developer",
+      "company": "PT. Beon Intermedia.",
+      "duration": "Nov 2024 - Feb 2025",
+      "description": [
+        "Successfully maintain all product in frontend and backend. ",
+        "Fix bug from customer or other division. "
+      ]
+    }
+  ]
+}

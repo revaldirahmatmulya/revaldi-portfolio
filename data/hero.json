@@ -1,0 +1,9 @@
+
+{
+  "greeting": "Hello, I'm",
+  "subtitle": "A passionate Full-Stack Developer specializing in creating modern and responsive web applications.",
+  "ctaPrimaryText": "View My Work",
+  "ctaPrimaryLink": "#projects",
+  "ctaSecondaryText": "Get In Touch",
+  "ctaSecondaryLink": "#contact"
+}

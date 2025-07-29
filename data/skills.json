@@ -1,0 +1,51 @@
+
+{
+  "title": "My Skills & Expertise",
+  "categories": [
+    {
+      "id": "cat1",
+      "name": "Frontend Development",
+      "skills": [
+        { "id": "s1", "name": "React" },
+        { "id": "s2", "name": "TypeScript" },
+        { "id": "s3", "name": "JavaScript (ES6+)" },
+        { "id": "s8", "name": "HTML5" },
+        { "id": "s9", "name": "CSS3 & Tailwind CSS" }
+      ]
+    },
+    {
+      "id": "cat2",
+      "name": "Backend Development",
+      "skills": [
+        { "id": "s4", "name": "PHP" },
+        { "id": "s5", "name": "Laravel" }
+      ]
+    },
+    {
+      "id": "cat3",
+      "name": "Machine Learning & AI",
+      "skills": [
+        { "id": "s6", "name": "Python" },
+        { "id": "s7", "name": "Tensorflow" },
+        { "id": "s7", "name": "Pytorch" }
+
+      ]
+    },
+    {
+      "id": "cat4",
+      "name": "Databases & DevOps",
+      "skills": [
+        { "id": "s10", "name": "SQL (PostgreSQL, MySQL)" }
+      ]
+    },
+    {
+      "id": "cat5",
+      "name": "Tools & General",
+      "skills": [
+        { "id": "s11", "name": "Git & GitHub" },
+        { "id": "s22", "name": "Agile Methodologies" },
+        { "id": "s24", "name": "CI/CD Pipelines" }
+      ]
+    }
+  ]
+}
