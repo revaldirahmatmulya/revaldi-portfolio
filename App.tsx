@@ -39,15 +39,15 @@ const App: React.FC = () => {
     const fetchData = async () => {
       try {
         const responses = await Promise.all([
-          fetch('./data/personalInfo.json'),
-          fetch('./data/navbar.json'),
-          fetch('./data/hero.json'),
-          fetch('./data/about.json'),
-          fetch('./data/skills.json'),
-          fetch('./data/projects.json'),
-          fetch('./data/experience.json'),
-          fetch('./data/contact.json'),
-          fetch('./data/footer.json'),
+          fetch('/revaldi-portfolio/data/personalInfo.json'),
+          fetch('/revaldi-portfolio/data/navbar.json'),
+          fetch('/revaldi-portfolio/data/hero.json'),
+          fetch('/revaldi-portfolio/data/about.json'),
+          fetch('/revaldi-portfolio/data/skills.json'),
+          fetch('/revaldi-portfolio/data/projects.json'),
+          fetch('/revaldi-portfolio/data/experience.json'),
+          fetch('/revaldi-portfolio/data/contact.json'),
+          fetch('/revaldi-portfolio/data/footer.json'),
         ]);
 
         for (const response of responses) {
